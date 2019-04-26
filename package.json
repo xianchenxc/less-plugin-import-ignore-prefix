@@ -1,0 +1,23 @@
+{
+  "name": "less-plugin-import-ignore-prefix",
+  "version": "1.0.0",
+  "description": "import ignore specific prefix for less.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianchenxc/less-plugin-import-ignore-prefix.git"
+  },
+  "keywords": [
+    "less plugins",
+    "less import"
+  ],
+  "author": "xianchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xianchenxc/less-plugin-import-ignore-prefix/issues"
+  },
+  "homepage": "https://github.com/xianchenxc/less-plugin-import-ignore-prefix#readme"
+}
